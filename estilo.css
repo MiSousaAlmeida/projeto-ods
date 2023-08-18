@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;    
+}
+
+ul{
+    line-height: 40px;
+}
+h1,h3{
+    background-color: #fff;
+    text-align: center;
+    color:rgb(180, 70, 70)
+}
+.centralizar, img {
+    text-align: center;
+} 
+
+.intro-text{
+    text-align: center; color: #fff;
+    border-radius: 2px; 
+    background-color: rgb(155, 34, 34);
+    font-size: large;
+    margin: 10px;
+    margin-bottom: 3rem;
+
+}
+
+.btn-youtube {
+    background-color:rgb(180, 70, 70);
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 32px;
+    display: inline-block;
+    border-radius: 10px;
+    font-size: 16px;
+    margin-top: 5px;
+    
+}
+
+.btn-youtube:hover {
+    background-color: rgb(190, 109, 109);
+    }
+
+footer {
+        margin-top: 30px;
+        text-align: center;
+        color: rgb(190, 109, 109)
+    }
